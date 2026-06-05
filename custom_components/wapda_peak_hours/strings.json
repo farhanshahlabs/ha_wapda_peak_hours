@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "WAPDA Peak Hours Setup",
+        "description": "Select your electricity distribution company (DISCO).",
+        "data": {
+          "disco": "Distribution Company (DISCO)"
+        }
+      }
+    },
+    "abort": {
+      "already_configured": "This DISCO is already configured."
+    }
+  }
+}
