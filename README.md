@@ -1,7 +1,7 @@
 # WAPDA Peak Hours — Home Assistant Integration
 
 [![HACS](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://github.com/hacs/integration)
-[![GitHub Release](https://img.shields.io/github/release/farhanshahlabs/ha_wapda_peak_hours.svg)](https://github.com/farhanshahlabs/ha_wapda_peak_hours/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/farhanshahlabs/ha_wapda_peak_hours?style=flat-square)](https://github.com/farhanshahlabs/ha_wapda_peak_hours/releases)
 [![Validate](https://github.com/farhanshahlabs/ha_wapda_peak_hours/actions/workflows/validate.yml/badge.svg)](https://github.com/farhanshahlabs/ha_wapda_peak_hours/actions/workflows/validate.yml)
 
 A **100% offline** Home Assistant integration that tracks electricity peak hours for Pakistani distribution companies (DISCOs). No internet connection required after setup.
