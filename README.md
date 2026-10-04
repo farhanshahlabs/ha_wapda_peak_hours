@@ -134,4 +134,4 @@ automation:
 
 ## License
 
-MIT © [farhanshahlabs](https://github.com/farhanshahlabs)
+GPL-3.0 license © [farhanshahlabs](https://github.com/farhanshahlabs)
